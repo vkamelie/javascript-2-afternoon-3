@@ -1,0 +1,15 @@
+//WUBIWUBamWUBnotWUBinerestedWUB    
+
+//WUBThisWUBWUBhasWUBaWUAWUAdouble-space
+
+//take out any WUBs in the statement
+
+
+
+function removeWub = (str){
+    console.log(str.split('WUB'))
+}
+
+//str= str.replace(/WUB/gi, ' ')
+//gi stands for global 
+//RegEx - regural expression 
